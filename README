@@ -1,0 +1,7 @@
+
+This is a QGIS plugin for loading raster layers from tiled web maps such as
+typical OpenStreetMap maps.
+
+This plugin is available under the same license as QGIS itself:
+http://www.gnu.org/licenses/old-licenses/lgpl-2.0.html
+

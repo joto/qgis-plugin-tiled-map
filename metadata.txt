@@ -1,0 +1,13 @@
+[general]
+name=TiledMap
+qgisMinimumVersion=1.8
+description=Add tiled web maps as raster layer
+version=version 1.0
+
+tags=map,raster,tiles
+
+repository=https://github.com/joto/qgis-plugin-tiled-map
+icon=icon.png
+
+experimental=True
+deprecated=False
