@@ -1,0 +1,4 @@
+[
+    { "name": "tile.osm.org", "url": "http://tile.openstreetmap.org/${z}/${x}/${y}.png", "maxzoom": "18" },
+    { "name": "tile.osm.de", "url": "http://tile.openstreetmap.de/tiles/osmde/${z}/${x}/${y}.png", "maxzoom": "18" }
+]
